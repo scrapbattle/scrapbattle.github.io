@@ -21,7 +21,7 @@ else if (typeof define === 'function' && define['amd'])
 const Features = {
 	/**
 	 * Check whether WebGL is available. Optionally, specify a particular version of WebGL to check for.
-	 * e
+	 *
 	 * @param {number=} [majorVersion=1] The major WebGL version to check for.
 	 * @returns {boolean} If the given major version of WebGL is available.
 	 * @function Engine.isWebGLAvailable
