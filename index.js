@@ -1,4 +1,4 @@
-//update
+
 var Godot = (() => {
   var _scriptName = typeof document != 'undefined' ? document.currentScript?.src : undefined;
   
